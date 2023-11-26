@@ -21,7 +21,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution](https://github.com/IndranjanaChatterjee/Order-summary-card-coding-challenge)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site](https://order-summary-card-mywebsite.netlify.app/)
 
 ## My process
 
